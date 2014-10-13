@@ -1,4 +1,4 @@
-# Puppet munin module [![Build Status](https://travis-ci.org/ssm/ssm-munin.png?branch=master)](https://travis-ci.org/ssm/ssm-munin)
+# Puppet munin module [![Build Status](https://travis-ci.org/bionix/ssm-munin.png?branch=master)](https://travis-ci.org/bionix/ssm-munin)
 
 Control munin master, munin node, and munin plugins.
 
